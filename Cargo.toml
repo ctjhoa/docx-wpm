@@ -1,0 +1,12 @@
+[package]
+name = "docx-wpm"
+version = "0.1.0"
+authors = ["Camille TJHOA <camille.tjhoa@outlook.com>"]
+edition = "2018"
+description = ""
+docx-wpm is an interface to convert wpm document from/into docx format
+""
+
+[dependencies]
+zip = { version = "0.4", default-features = false }
+quick-xml = "0.13.1"
