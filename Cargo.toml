@@ -9,5 +9,5 @@ docx-wpm is an interface to convert wpm document from/into docx format
 
 [dependencies]
 zip = { git = "https://github.com/ctjhoa/zip-rs", branch = "wasm32", default-features = false, features = ['deflate'] }
-quick-xml = "0.13.1"
 wpm = { git = "https://github.com/ctjhoa/wpm", branch = "master" }
+minidom = "0.10.0"
