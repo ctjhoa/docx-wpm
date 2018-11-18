@@ -1,3 +1,3 @@
-# docx-wpm
+# ooxml-wpm
 
-`docx-wpm` is an interface to convert wpm document from/into docx format.
+`ooxml-wpm` is an interface to convert wpm document from/into [OOXML](http://officeopenxml.com) format.

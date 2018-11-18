@@ -1,10 +1,10 @@
 [package]
-name = "docx-wpm"
+name = "ooxml-wpm"
 version = "0.1.0"
 authors = ["Camille TJHOA <camille.tjhoa@outlook.com>"]
 edition = "2018"
 description = """
-docx-wpm is an interface to convert wpm document from/into docx format
+ooxml-wpm is an interface to convert wpm document from/into OOXML format
 """
 
 [dependencies]
